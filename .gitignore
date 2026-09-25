@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+referencias-privadas
+testes-navegador/capturas
+
+# Guia interno: planejamento e nomes reais de documentos; não publicar
+DEMONSTRACAO_IGREJA_MCV_GUIA_CLAUDE.md
